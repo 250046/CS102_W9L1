@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double SumDigits(int n){
+int SumDigits(int n){
     if (n==0) {
         return 0;
     }
